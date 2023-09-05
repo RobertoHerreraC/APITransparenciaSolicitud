@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgemsaGestionSolicitud", "EgemsaGestionSolicitud\EgemsaGestionSolicitud.csproj", "{B45E5B6E-75C0-419D-87AD-1E902B347797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{301C3800-0630-45DB-BCE4-CE3EBD041105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B45E5B6E-75C0-419D-87AD-1E902B347797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45E5B6E-75C0-419D-87AD-1E902B347797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45E5B6E-75C0-419D-87AD-1E902B347797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45E5B6E-75C0-419D-87AD-1E902B347797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{301C3800-0630-45DB-BCE4-CE3EBD041105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301C3800-0630-45DB-BCE4-CE3EBD041105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301C3800-0630-45DB-BCE4-CE3EBD041105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301C3800-0630-45DB-BCE4-CE3EBD041105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5C75EA3-2F61-4AE7-9FF4-83E9BA2CEF58}
+	EndGlobalSection
+EndGlobal
